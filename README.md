@@ -10,9 +10,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Jorge C. Sam 
+- :woman: Manon Navarrete
+- :woman: Adelaida Navas
+- :man: Ángel Ruiz
 
 
 Proyecto (código): 
